@@ -6,6 +6,7 @@ const init = async() => {
     const contents = await readFile('./entrada.txt')
     console.log(String(contents))
 }
+
 console.log(init())
 
 console.log("Retorno 2")
