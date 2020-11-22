@@ -1,5 +1,4 @@
 # Trabalho 1
-![wiki](https://github.com/brunocriscuolo/edl20201/wiki/Node.js:-Funcionalidades-de-alta-expressividade)
 #### Funcionalidades de alta expressividade em linguagens de alto nível  
 UERJ: Universidade do Estado do Rio de Janeiro  
 IME: Instituto de Matemática e Estatística  
