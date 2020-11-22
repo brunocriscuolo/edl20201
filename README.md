@@ -18,7 +18,7 @@ A linguagem escolhida para estudo das funcionalidades de alta expressividade foi
 Cada um dos autores do trabalho descreve um conjunto de 3 funcionalidades que demonstram a alta expressividade desta linguagem.  
 
 1. Callbacks, Promises e Async/Await;
-2. Arrow Finctions, Partial Functions e Currying;
+2. Arrow Functions, Partial Functions e Currying;
 
 A seguir estão listados os materiais produzidos durante o estudo que abordam o histórico da linguagem (suas origens e influências) e detalham com exemplos as funcionalidades em questão:
 
