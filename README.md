@@ -23,7 +23,7 @@ Cada um dos autores do trabalho descreve um conjunto de 3 funcionalidades que de
 A seguir estão listados os materiais produzidos durante o estudo que abordam o histórico da linguagem (suas origens e influências) e detalham com exemplos as funcionalidades em questão:
 
 > [Apsentaçãode slides (resumo)](https://drive.google.com/file/d/1v7ZO4FEZlZ_DWxLcy2bNdpfNcwK36acN/view?usp=sharing)  
-> [Artigo wiki (detalhado)](https://github.com/brunocriscuolo/edl20201/wiki/Node.js:-Funcionalidades-de-alta-expressividade)  
+> [Artigo wiki (detalhado)](https://github.com/brunocriscuolo/edl20201/wiki/Node.js:-Funcionalidades-de-alta-expressividade) *em construção*  
 
 Os códigos-fonte dos exemplos utilizados no trabalho estão organizados neste repositório da seguinte forma:
 
