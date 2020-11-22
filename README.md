@@ -34,7 +34,8 @@ Os códigos-fonte dos exemplos utilizados no trabalho estão organizados neste r
 ├── ArrowFunction_PartialFunction_Currying/
 │   ├── 01a_arrow_function_sample.js
 │   ├── 01b_partial_function_sample.js
-│   └── 01c_currying_sample.js
+│   ├── 01c_currying_sample.js
+│   └── 02_arrow_parcial_currying_real.js
 │
 ├── Callback_Promise_AsyncAwait/
 │   ├── 01a_async_callback_sample.js
