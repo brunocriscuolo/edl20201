@@ -1,5 +1,6 @@
 const axios = require('axios');
 
+
 const getExchangeRate = async (fromCurrency, toCurrency) => {
   try {
     const response = await axios.get('http://data.fixer.io/api/latest?access_key=f68b13604ac8e570a00f7d8fe7f25e1b&format=1');
@@ -15,6 +16,7 @@ const getExchangeRate = async (fromCurrency, toCurrency) => {
   }
 };
 
+
 const getCountries = async (currencyCode) => {
   try {
     const response = await axios.get(`https://restcountries.eu/rest/v2/currency/${currencyCode}`);
@@ -25,6 +27,7 @@ const getCountries = async (currencyCode) => {
     throw new Error(`Unable to get countries that use ${currencyCode}`);
   }
 };
+
 
 const convertCurrency = async (fromCurrency, toCurrency, amount) => {
   const exchangeRate = await getExchangeRate(fromCurrency, toCurrency);
